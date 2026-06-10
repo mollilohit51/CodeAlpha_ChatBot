@@ -12,13 +12,18 @@ demonstrates basic conversational functionalityusing conditional statements and 
 - Simple and begineer-friendly interface
 
 # Technologies Used
--Python
+- Python
 
 # Concepts Used
 - Coditional Statements(if-elif-else)
 - Loops
 - Functions
 - User Input and Output
+
+# How to Run
+1. Install Python
+2. Open terminal or command prompt
+3. Run the file:
 
 python Chat_Bot.py
 
